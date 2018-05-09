@@ -8,7 +8,7 @@
 * 初始化dataset
 * 点击button，dataset数据导入datagridview，然后导出数据至xls文件。（路径是我的文档）
 #### 注意：
-*去除格式损坏提示信息
+* 去除格式损坏提示信息
 ```C# (type)
             //获取你使用的excel 的版本号
             string Version = excel.Version;

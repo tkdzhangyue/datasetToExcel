@@ -4,6 +4,9 @@
 #### 环境：
 1. Microsoft Visual C# 2015 
 2. Project->Add->Reference->COM->Type Libraries->Microsoft Excel 15.0 Object Library
+#### 使用：
+* 初始化dataset
+* 点击button，dataset数据导入datagridview，然后导出数据至xls文件。（路径是我的文档）
 #### 注意：
 *去除格式损坏提示信息
 ```C# (type)
